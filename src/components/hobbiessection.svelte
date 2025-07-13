@@ -33,7 +33,6 @@
         };
     }
 
-    // Placeholder hobby data
     const hobbies = [
         { name: "Coding (DUH!)", description: "I love, coding, mobile apps, learning, new coding, languages, and working on projects that can make a difference in the world."},
         { name: "Vlogging for my Youtube channel", description: "I love being able to document my life and seeing how much I have grown over the past two years.", image: "/src/assets/briarYTchannel.png" },
